@@ -8,7 +8,7 @@
 - 💞️ I’m looking for a Ph.D. position starting in 2024 Fall
 - 📫 How to reach me
   - Email (**ruihe.wang.chn@gmail.com**/**rhwang02@hku.hk**)
-  - [LinkedIn](linkedin.com/in/ruihe-wang-5613ab278)
+  - [LinkedIn](https://www.linkedin.com/in/ruihe-wang-5613ab278/)
   - [Twitter](https://twitter.com/whois_rebecca)
 - 🧚🏻‍♀️ Fun fact: I'm a big fan of badminton and Canto-pop
 
