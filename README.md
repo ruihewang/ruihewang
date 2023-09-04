@@ -1,9 +1,9 @@
 # Hi there👋
 ### I'm Ruihe WANG ([王瑞禾](https://translate.google.com/?hl=zh-CN&sl=auto&tl=zh-CN&text=%E7%8E%8B%E7%91%9E%E7%A6%BE&op=translate) in Chinese), you can also call me Rebecca:)
 
-- 🥰 I'm currently a junior student majoring in Mathematics at [HIT](http://www.hit.edu.cn)
+- 🥰 I'm currently a senior student majoring in Mathematics at [HIT](http://www.hit.edu.cn)
 - 🤠 I'm working as a student research assistant at [the Department of Computer Science](http://www.cs.hku.hk), [HKU](http://www.hku.hk) from July 2024
-- 🫶🏻 I’m interested in AI-related research topics and computer vision
+- 🫶🏻 I’m interested in AI-related research topics and machine learning/deep learning
 - 👩🏻‍💻 I’m working on improving my coding skills
 - 💞️ I’m looking for a Ph.D. position starting in 2024 Fall
 - 📫 How to reach me
